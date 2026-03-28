@@ -9,7 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 ## 🚨 Threat Hunting and Security Operations
-- **[Threat Hunting Scenario (TOR Browser Usage)]((https://github.com/dannym32/Threat-Hunting-Scenario-TOR-Browser-Usage-)**
+- **[Threat Hunting Scenario (TOR Browser Usage)](https://github.com/dannym32/Threat-Hunting-Scenario-TOR-Browser-Usage-)**
 
 <hr/>
 
