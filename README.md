@@ -10,6 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 ## 🚨 Threat Hunting and Security Operations
+- **[Threat Hunt Practice Scenarios](https://github.com/dannym32/The-Cyber-Range/tree/main/Threat%20Hunt%20Practice%20Scenarios)**
 - **[Threat Hunting Scenario (TOR Browser Usage)](https://github.com/dannym32/Threat-Hunting-Scenario-TOR-Browser-Usage-)**
 
 <hr/>
