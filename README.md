@@ -6,6 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/dannym32/Vulnerability-Management-Program)**
+- **[STIGs](https://github.com/dannym32/The-Cyber-Range/tree/main/STIGs)**
 
 
 ## 🚨 Threat Hunting and Security Operations
