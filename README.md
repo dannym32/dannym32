@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/daniel-mullins24/">Daniel Mullins</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Always ready to learn when it comes to the latest landscape of cybersecurity. My interests include cybersecurity and solving tough problems by working on hands-on projects. The projects include areas from vulnerability management to threat detection, which helps me understand the latest trends in the dynamic field of cybersecurity. Feel free to browse them to know more about my contribution to the field of cybersecurity.
+Always ready to learn when it comes to the latest landscape of cybersecurity. My interests include cybersecurity and solving tough problems by working on hands-on projects. The projects include areas from vulnerability management to threat detection to network topology, which helps me understand the latest trends in the dynamic field of cybersecurity. Feel free to browse them to know more about my contribution to the field.
 
 ## ⚠️ Vulnerability Management Projects
 
