@@ -12,14 +12,14 @@ Always ready to learn when it comes to the latest landscape of cybersecurity. My
 - **[Threat Hunt Practice Scenarios](https://github.com/dannym32/The-Cyber-Range/tree/main/Threat%20Hunt%20Practice%20Scenarios)**
 - **[Threat Hunting Scenario (TOR Browser Usage)](https://github.com/dannym32/Threat-Hunting-Scenario-TOR-Browser-Usage-)**
 
+## Network Topology
+- **[Small Business Network Topology](https://github.com/dannym32/Small-Business-Network-Topology/blob/main/README.md)**
 <hr/>
 
 ## 🤳 Connect With Me
 
 [<img align="left" alt="https://www.linkedin.com/in/daniel-mullins24/___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/___________
 [linkedin]: https://linkedin.com/in/daniel-mullins24/
 
 <!--
