@@ -11,6 +11,7 @@ Always ready to learn when it comes to the latest landscape of cybersecurity. My
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat Hunt Practice Scenarios](https://github.com/dannym32/The-Cyber-Range/tree/main/Threat%20Hunt%20Practice%20Scenarios)**
 - **[Threat Hunting Scenario (TOR Browser Usage)](https://github.com/dannym32/Threat-Hunting-Scenario-TOR-Browser-Usage-)**
+- **[Threat Hunting Scenario (Scattered Invoice)](https://github.com/dannym32/Threat-Hunt-Scattered-Invoice)**
 
 ## 🌐 Network Topology
 - **[Small Business Network Topology](https://github.com/dannym32/Small-Business-Network-Topology/blob/main/README.md)**
